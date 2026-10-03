@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/SiobanNK" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sioban-nieradzik-kozic/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></p>
 
- **<h3 align="left">🚀 Engineering student, specialized in maths & ML. Experienced in scientific computing, computational modeling, and high-performance software engineering, with a focus on molecular and materials simulations.</h3>**
+ **<h3 align="left">🚀 Engineering student, specialized in maths & ML. Experienced in high-performance scientific computing, computational modeling, software engineering, with a focus on molecular and materials simulations.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
