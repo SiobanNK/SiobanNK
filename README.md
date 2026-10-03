@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Improving molecular binding affinity prediction with Deep Learning**
-- 🌱 I'm currently learning: **📚 Bioinformatics**
+- 🌱 I'm currently learning: **📚 LLM**
 - 💬 Ask me about: **💡 Quantized Tensor Trains**
 
  **<h3 align="left">Skills</h3>**
